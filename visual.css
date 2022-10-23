@@ -1,0 +1,42 @@
+body {
+    background: black;
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+    
+
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: rgb(121, 219, 56);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px green;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    position: absolute;
+    width: 100%;
+    font-style: italic;
+    bottom: 0;
+
+}
+
+div#texto1,#texto2 {
+
+    text-shadow: 5px 5px 10px black;
+    text-align: center;
+    padding: 8px;
+
+}
